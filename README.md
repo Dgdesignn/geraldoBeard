@@ -6,5 +6,5 @@ HTML+CSS+JavaScript(swiperjs)
 
 `
 see the web page:  
-`[click here](https://www.example.com)
+`[click here](https://dgdesignn.github.io/geraldoBeard/)
  
